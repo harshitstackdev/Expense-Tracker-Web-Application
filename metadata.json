@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A simple, friendly, and intuitive expense tracker to manage daily income, expenses, and personal budgets effortlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
